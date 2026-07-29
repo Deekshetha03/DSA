@@ -1,5 +1,4 @@
 *.class
-**/Arrays/*.class
 .vscode/
 bin/
 out/
